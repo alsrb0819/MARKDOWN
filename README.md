@@ -1,6 +1,7 @@
 # 연결됨?
 askdjaiwj
 
+# ㅇㅇ 연결됨 그리고 넣음
 
 # MARKDOWN
 MARKDOWN 정리, 실습 for README.md
